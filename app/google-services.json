@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830695097527",
+    "project_id": "ar2687386brigithecorrea",
+    "storage_bucket": "ar2687386brigithecorrea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830695097527:android:a870aff86de03551f4f932",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687386brigithecorrea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4iuKMjsnOsXUmLwALNXkg6tYVsP2Jkjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
